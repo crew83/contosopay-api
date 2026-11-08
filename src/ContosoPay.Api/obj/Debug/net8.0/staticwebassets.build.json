@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yfun6bY6F9+SGwKCeNYg+88A73ygLb9dRmFf1VDhtgM=",
+  "Source": "ContosoPay.Api",
+  "BasePath": "_content/ContosoPay.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
